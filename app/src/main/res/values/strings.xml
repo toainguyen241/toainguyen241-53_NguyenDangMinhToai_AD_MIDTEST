@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculating Net Income</string>
+    <string name="net_income">Net Income</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="round_net_income">Round net income?</string>
+    <string name="Gross_Income">Gross Income</string>
+    <string name="low_15">Low (15%)</string>
+    <string name="medium_20">Medium (20%)</string>
+    <string name="high_25">High (25%)</string>
+</resources>
